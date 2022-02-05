@@ -33,10 +33,87 @@ Requirements
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1–3 | Part I: De Se Thought | Session 3 Guest: [Dilip Ninan](http://www.dilipninan.org/) |
-| 4–5 | Part II: Propositions | &nbsp; |
-| 6–7 | Part III: Knowing How | Session 7 Guest: [Ephraim Glick](http://www.st-andrews.ac.uk/~eg35/About.html) |
-| 8–10 | Part IV: Perceptual Content | Session 8 Guest: [Heather Logue](http://www.leeds.ac.uk/arts/profile/20042/199/heather_logue) |
-| 11–15 | Part V: The Knowledge Argument |  {{< br >}}{{< br >}} Session 14: Student Presentations of Final Paper Topics {{< br >}}{{< br >}} Session 15: Final Paper Due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–3
+{{< tdclose >}}
+{{< tdopen >}}
+Part I: De Se Thought
+{{< tdclose >}}
+{{< tdopen >}}
+Session 3 Guest: [Dilip Ninan](http://www.dilipninan.org/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–5
+{{< tdclose >}}
+{{< tdopen >}}
+Part II: Propositions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+{{< tdopen >}}
+Part III: Knowing How
+{{< tdclose >}}
+{{< tdopen >}}
+Session 7 Guest: [Ephraim Glick](http://www.st-andrews.ac.uk/~eg35/About.html)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8–10
+{{< tdclose >}}
+{{< tdopen >}}
+Part IV: Perceptual Content
+{{< tdclose >}}
+{{< tdopen >}}
+Session 8 Guest: [Heather Logue](http://www.leeds.ac.uk/arts/profile/20042/199/heather_logue)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11–15
+{{< tdclose >}}
+{{< tdopen >}}
+Part V: The Knowledge Argument
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 14: Student Presentations of Final Paper Topics
+
+Session 15: Final Paper Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
