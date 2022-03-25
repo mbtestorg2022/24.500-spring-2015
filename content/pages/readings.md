@@ -30,9 +30,9 @@ READINGS
 {{< tdopen >}}
 
 
-Perry, John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Problem of the Essential Indexical." (PDF - 4.8MB)](http://www.uvm.edu/~lderosse/courses/lang/Perry(1979).pdf) _Nous_ 13, no. 1 (1979): 3–21. (Blackwell Publishing)
+Perry, John. ["The Problem of the Essential Indexical." (PDF - 4.8MB)](http://www.uvm.edu/~lderosse/courses/lang/Perry(1979).pdf) _Nous_ 13, no. 1 (1979): 3–21. (Blackwell Publishing)
 
-Lewis, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Attitudes De Dicto and De Se." (PDF - 1.9MB)](http://www.andrewmbailey.com/dkl/Attitudes_De_Dicto_and_De_Se.pdf) _The Philosophical Review_ 88, no. 4 (1979): 513–43. (Duke University Press)
+Lewis, David. ["Attitudes De Dicto and De Se." (PDF - 1.9MB)](http://www.andrewmbailey.com/dkl/Attitudes_De_Dicto_and_De_Se.pdf) _The Philosophical Review_ 88, no. 4 (1979): 513–43. (Duke University Press)
 
 
 {{< tdclose >}}
@@ -55,7 +55,7 @@ Kripke, Saul. Chapter 10 in _Philosophical Troubles: Collected Papers, Volume 1_
 
 Stalnaker, Robert C. Chapter 3 in _Our Knowledge of the Internal World_. Oxford University Press, 2010. ISBN: 9780199592036.
 
-Campbell, John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What Is It to Know What 'I' Refers To?"](http://www.jstor.org/stable/27903866) _The Monist_ 87, no. 2 (2004): 206–18.
+Campbell, John. ["What Is It to Know What 'I' Refers To?"](http://www.jstor.org/stable/27903866) _The Monist_ 87, no. 2 (2004): 206–18.
 
 
 {{< tdclose >}}
@@ -72,11 +72,11 @@ Cappelen, Herman, and Josh Dever. Chapters 3 and 5 in _The Inessential Indexical
 
 ### Supplementary Reading
 
-Magidor, Ofra. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Myth of the De Se." (PDF)](http://users.ox.ac.uk/~ball1646/Research/papers%20and%20abstracts/The%20Myth%20of%20the%20De%20Se%20(July%202014).pdf)
+Magidor, Ofra. ["The Myth of the De Se." (PDF)](http://users.ox.ac.uk/~ball1646/Research/papers%20and%20abstracts/The%20Myth%20of%20the%20De%20Se%20(July%202014).pdf)
 
-Ninan, Dilip. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What is the Problem of _De Se_ Attitudes?" (PDF)](http://www.dilipninan.org/papers/DeSeOUP19.pdf)
+Ninan, Dilip. ["What is the Problem of _De Se_ Attitudes?" (PDF)](http://www.dilipninan.org/papers/DeSeOUP19.pdf)
 
-Devitt, Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Myth of the Problematic _De Se_." (PDF)](http://www.philosophy.uw.edu.pl/wp-content/uploads/Myth-of-De-Se.pdf)
+Devitt, Michael. ["The Myth of the Problematic _De Se_." (PDF)](http://www.philosophy.uw.edu.pl/wp-content/uploads/Myth-of-De-Se.pdf)
 
 
 {{< tdclose >}}
@@ -171,7 +171,7 @@ Rumfitt, Ian. "[Savoir Faire](http://www.pdcnet.org/pdc/bvdb.nsf/purchase?openfo
 
 Ryle, Gilbert. _The Concept of Mind_. University Of Chicago Press, 2000. ISBN: 9780226732961. \[Preview with [Google Books](http://books.google.com/books?id=YXN4AgAAQBAJ&pg=PAfrontcover)\]
 
-Santorio, Paolo. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Nonfactual Know-How and the Boundaries of Semantics." (PDF)](http://www.paolosantorio.net/nfkh.final.june15.pdf)
+Santorio, Paolo. ["Nonfactual Know-How and the Boundaries of Semantics." (PDF)](http://www.paolosantorio.net/nfkh.final.june15.pdf)
 
 Snowdon, Paul. "[I—Knowing How and Knowing That: A Distinction Reconsidered](http://dx.doi.org/10.1111/j.0066-7373.2004.00079.x)." _Proceedings of the Aristotelian Society (Hardback)_ 104, no. 1 (2004): 1–29.
 
@@ -196,7 +196,7 @@ Logue, Heather. "[Experiential Content and Naïve Realism: A Reconciliation](htt
 
 ### Supplementary Reading
 
-Brewer, Bill. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["How To Account For Illusion." (PDF)](http://www2.warwick.ac.uk/fac/soc/philosophy/people/brewer/hai.pdf)
+Brewer, Bill. ["How To Account For Illusion." (PDF)](http://www2.warwick.ac.uk/fac/soc/philosophy/people/brewer/hai.pdf)
 
 Byrne, Alex. "[Experience and Content](http://dx.doi.org/10.1111/j.1467-9213.2009.614.x)." _The Philosophical Quarterly_ 59, no. 236 (2009): 429–51.
 
@@ -215,13 +215,13 @@ Pautz, Adam. "[What Are The Contents of Experiences?](http://dx.doi.org/10.1111/
 {{< tdopen >}}
 
 
-Speaks, Jeff. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Is There a Problem About Nonconceptual Content?" (PDF)](http://www3.nd.edu/~jspeaks/papers/nonconceptual.pdf) _The Philosophical Review_ 114, no. 3 (2005): 359–98.
+Speaks, Jeff. ["Is There a Problem About Nonconceptual Content?" (PDF)](http://www3.nd.edu/~jspeaks/papers/nonconceptual.pdf) _The Philosophical Review_ 114, no. 3 (2005): 359–98.
 
 Van Cleve, James. "[Defining and Defending Nonconceptual Contents and States](http://dx.doi.org/10.1111/phpe.12010)." _Philosophical Perspectives_ 26, no. 1 (2012): 411–30.
 
 ### Supplementary Reading
 
-Byrne, Alex. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Perception and Conceptual Content." (PDF)](http://web.mit.edu/abyrne/www/percepandconcepcontent.pdf)
+Byrne, Alex. ["Perception and Conceptual Content." (PDF)](http://web.mit.edu/abyrne/www/percepandconcepcontent.pdf)
 
 
 {{< tdclose >}}
@@ -278,7 +278,7 @@ Rayo, Agustín. Section 4.5 in _The Construction of Logical Space_. Oxford Unive
 {{< tdopen >}}
 
 
-Ball, Derek. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[There Are No Phenomenal Concepts](http://dx.doi.org/10.1093/mind/fzp134)." _Mind_ 118, no. 472 (2009): 935–62.
+Ball, Derek. "[There Are No Phenomenal Concepts](http://dx.doi.org/10.1093/mind/fzp134)." _Mind_ 118, no. 472 (2009): 935–62.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262516631) Tye, Michael. _Consciousness Revisited: Materialism without Phenomenal Concepts_. MIT Press, 2011, pp. 123–37. ISBN: 9780262516631.
 
